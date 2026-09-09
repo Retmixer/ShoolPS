@@ -1,0 +1,6 @@
+{
+  "name": "PaceSetter School — Онлайн курсы по 1С и AI",
+  "description": "Онлайн-школа PaceSetter School: практические видеокурсы по разработке в 1С:Предприятие и искусственному интеллекту (AI) с Google Drive и домашними заданиями",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
